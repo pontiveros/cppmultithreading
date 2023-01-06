@@ -1,6 +1,6 @@
 
 // clang++ -Wall -std=c++11 test.cc -o test
-// g++ 
+// g++ main.cpp
 
 #include <iostream>
 #include <pthread.h>
