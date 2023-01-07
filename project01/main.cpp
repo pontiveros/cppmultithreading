@@ -1,6 +1,10 @@
 
+// author: Pedro Ontiveros
+// date: 
 // clang++ -Wall -std=c++11 test.cc -o test
 // g++ main.cpp
+
+// multithreading implementation using pthread 
 
 #include <iostream>
 #include <pthread.h>
